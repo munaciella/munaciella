@@ -1,14 +1,14 @@
 Hi everyone 👋
 
-🔭 I’m currently working on getting around GitHub and starting new projects
+🔭 I’m currently looking for a Junior Software Developer position and working on new projects
 
-🌱 I’m currently learning JavaScript/Web Development and looking forward to start a Software Development Bootcamp with Northcoders
+🌱 I’m currently mastering JavaScript and learning Typescript and i have recently graduated from a bootcamp with Northcoders
 
 👯 I’m looking to collaborate on new projects on GitHub
 
-🤔 I’m looking for help with mastering GitHub and the Command Line/Terminal and improving JavaScript
+🤔 I’m looking forward to start my new career and learn new tech languages including Python
 
-📫 How to reach me: LinkedIn @ Francesco Vurchio
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/francesco-vurchio/)
 
 😄 Pronouns: he/him
 
