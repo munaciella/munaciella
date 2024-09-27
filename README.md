@@ -58,10 +58,10 @@ I'm **Francesco Vurchio**, a Junior Software Developer passionate about building
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ## 🌍 Let's Connect:
-[Email](mailto:francesco.vurchio82@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/francesco-vurchio/)
-[GitHub](https://github.com/munaciella)
-[Portfolio](https://francesco-vurchio.netlify.app/)
+- [Email](mailto:francesco.vurchio82@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/francesco-vurchio/)
+- [GitHub](https://github.com/munaciella)
+- [Portfolio](https://francesco-vurchio.netlify.app/)
 
 ## 📚 Education:
 - **Northcoders Bootcamp** | Full Stack Development
