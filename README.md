@@ -4,7 +4,7 @@ I'm **Francesco Vurchio**, a Junior Software Developer passionate about building
 
 ## 🌱 Current Focus:
 - Mastering **JavaScript** and **TypeScript**
-- Exploring new technologies like **Python**
+- Exploring new technologies like **Python**, **Nest.js** and **AWS**
 - Building applications with **React**, **Next.js**, **React Native**, and **Tailwind CSS**
 
 ## 💻 Projects & Contributions:
