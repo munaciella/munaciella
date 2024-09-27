@@ -1,15 +1,62 @@
-Hi everyone 👋
+# Hi there 👋
 
-🔭 I’m currently looking for a Junior Software Developer position and working on new projects
+I'm **Francesco Vurchio**, a Junior Software Developer passionate about building impactful applications. I’m currently seeking a Junior Software Developer role while continuously improving my JavaScript and TypeScript expertise. I recently graduated from the Northcoders bootcamp and am eager to collaborate on exciting new projects.
 
-🌱 I’m currently mastering JavaScript and learning Typescript and i have recently graduated from a bootcamp with Northcoders
+## 🌱 Current Focus:
+- Mastering **JavaScript** and **TypeScript**
+- Exploring new technologies like **Python**
+- Building applications with **React**, **Next.js**, **React Native**, and **Tailwind CSS**
 
-👯 I’m looking to collaborate on new projects on GitHub
+## 💻 Projects & Contributions:
+### [EventSphere](#) | Event Platform for Sharing and Creating Events
+- Built using **React** and **Supabase** with real-time database and user authentication.
+- Integrated **Stripe** for payments and **Google Maps** for event location.
+- Adopted agile methodologies to iterate and improve the app continuously.
 
-🤔 I’m looking forward to start my new career and learn new tech languages including Python
+### [Wax](#) | Social Media Platform for Music Enthusiasts
+- Developed with **React Native** and **AWS** for database functionality and authentication.
+- Integrated **Spotify API** for music exploration.
+- Enabled users to rate and review songs and albums.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/francesco-vurchio/)
+### [News API Application](#) | Full Stack API Project
+- Backend built with **Node.js**, **Express**, and **PostgreSQL**.
+- Implemented **Test-Driven Development** with **Jest** and **Supertest**.
+- Hosted frontend on **Netlify** and backend on **Render**.
 
-😄 Pronouns: he/him
+### [Portfolio](#) | Personal Portfolio Website
+- Developed with **React** and **TypeScript** using **Vite**.
+- Styled using **Tailwind CSS** for a modern, component-based design.
 
-⚡ Fun fact: Love cats!
+### [Recipes Website](#) | Vegan Recipe Sharing Platform
+- Built with **Next.js**, **React**, and **TypeScript**.
+- Integrated back-end services for form handling and deployed with **Vercel**.
+
+## 💼 Experience:
+**Freelance Software Engineer Consultant** | Tech Returners (July 2024 - Aug 2024)  
+- Delivered a bespoke web application for internal development with **OAuth** authentication.
+- Enhanced backend solutions with **Supabase**, focusing on user management and database security.
+
+**Trainee Full-Stack Developer** | Northcoders (Oct 2023 - Jan 2024)  
+- Built web applications with a focus on **Node.js**, **React**, and **SQL**.
+- Developed skills in **TDD**, **Agile** methodologies, and collaborative coding environments.
+
+## 🔧 Technical Skills:
+- **Languages**: JavaScript, TypeScript
+- **Back-end**: Node.js, SQL, PSQL, MongoDB, Express
+- **Front-end**: React, Next.js, Tailwind CSS, React Native, Native Wind, Expo
+- **Testing**: TDD, Jest, Supertest
+- **Hosting**: Cloudflare, Render, Vercel, Supabase, Firebase
+- **Soft Skills**: Paired programming, Technical communication, Agile & SCRUM
+
+## 🌍 Let's Connect:
+- **Email**: [francesco.vurchio82@gmail.com](mailto:francesco.vurchio82@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](#)
+- **GitHub**: [GitHub Profile](#)
+- **Portfolio**: [Portfolio Website](#)
+
+## 📚 Education:
+- **Northcoders Bootcamp** | Full Stack Development
+- **BSc Sport, Fitness & Coaching** | The Open University
+
+## 😄 Fun Fact:
+- I love cats and promote wellness through my vegan lifestyle!
