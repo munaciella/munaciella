@@ -54,12 +54,18 @@ I'm Francesco Vurchio, a Junior Software Developer passionate about building imp
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Express](https://img.icons8.com/color/48/000000/express.png)
+![Jest](https://img.icons8.com/color/48/000000/jest.png)
+![Vercel](https://img.icons8.com/color/48/000000/vercel.png)
 
 🌍 **Let's Connect:**
-- [francesco.vurchio82@gmail.com](mailto:francesco.vurchio82@gmail.com)
-- [LinkedIn] (https://www.linkedin.com/in/francesco-vurchio/)
-- [GitHub] (https://github.com/munaciella)
-- [Portfolio] (https://francesco-vurchio.netlify.app/)
+- [Email](mailto:francesco.vurchio82@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/francesco-vurchio/)
+- [GitHub](https://github.com/munaciella)
+- [Portfolio](https://francesco-vurchio.netlify.app/)
 
 📚 **Education:**
 - Northcoders Bootcamp | Full Stack Development
