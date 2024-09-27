@@ -55,11 +55,11 @@ I'm Francesco Vurchio, a Junior Software Developer passionate about building imp
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
-![PostgreSQL](https://img.icons8.com/external-tal-revivo-regular-tal-revivo/48/external-postgresql-is-an-object-relational-database-management-system-logo-regular-tal-revivo.png)
-![MongoDB](https://img.icons8.com/external-flat-juicy-fish/48/external-mongodb-mongodb-flat-flat-juicy-fish.png)
-![Express](https://img.icons8.com/external-flat-juicy-fish/48/external-express-js-framework-flat-flat-juicy-fish.png)
-![Jest](https://img.icons8.com/external-flat-juicy-fish/48/external-jest-a-painless-javascript-unit-testing-framework-flat-flat-juicy-fish.png)
-![Vercel](https://img.icons8.com/external-flat-juicy-fish/48/external-vercel-frontend-framework-flat-flat-juicy-fish.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Express](https://img.icons8.com/color/48/000000/express.png)
+![Jest](https://img.icons8.com/color/48/000000/jest.png)
+![Vercel](https://img.icons8.com/color/48/000000/vercel.png)
 
 🌍 **Let's Connect:**
 - [Email](mailto:francesco.vurchio82@gmail.com)
