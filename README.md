@@ -1,12 +1,12 @@
 # Hi there 👋
-I'm Francesco Vurchio, a Junior Software Developer passionate about building impactful applications. I’m currently seeking a Junior Software Developer role while continuously improving my JavaScript and TypeScript expertise. I recently graduated from the Northcoders bootcamp and am eager to collaborate on exciting new projects.
+I'm **Francesco Vurchio**, a Junior Software Developer passionate about building impactful applications. I’m currently seeking a Junior Software Developer role while continuously improving my JavaScript and TypeScript expertise. I recently graduated from the Northcoders bootcamp and am eager to collaborate on exciting new projects.
 
-🌱 **Current Focus:**
+## 🌱 Current Focus:
 - Mastering JavaScript and TypeScript
 - Exploring new technologies like Python, Nest.js, and AWS
 - Building applications with React, Next.js, React Native, and Tailwind CSS
 
-💻 **Projects & Contributions:**
+## 💻 Projects & Contributions:
 - **EventSphere** | Event Platform for Sharing and Creating Events
   - Built using React and Supabase with real-time database and user authentication.
   - Integrated Stripe for payments and Google Maps for event location.
@@ -30,7 +30,7 @@ I'm Francesco Vurchio, a Junior Software Developer passionate about building imp
   - Built with Next.js, React, and TypeScript.
   - Integrated back-end services for form handling and deployed with Vercel.
 
-💼 **Experience:**
+## 💼 Experience:
 - **Freelance Software Engineer Consultant** | Tech Returners (July 2024 - Aug 2024)
   - Delivered a bespoke web application for internal development with OAuth authentication.
   - Enhanced backend solutions with Supabase, focusing on user management and database security.
@@ -39,7 +39,7 @@ I'm Francesco Vurchio, a Junior Software Developer passionate about building imp
   - Built web applications with a focus on Node.js, React, and SQL.
   - Developed skills in TDD, Agile methodologies, and collaborative coding environments.
 
-🔧 **Technical Skills:**
+## 🔧 Technical Skills:
 - **Languages:** JavaScript, TypeScript
 - **Back-end:** Node.js, SQL, PSQL, MongoDB, Express
 - **Front-end:** React, Next.js, Tailwind CSS, React Native, Native Wind, Expo
@@ -47,7 +47,7 @@ I'm Francesco Vurchio, a Junior Software Developer passionate about building imp
 - **Hosting:** Cloudflare, Render, Vercel, Supabase, Firebase
 - **Soft Skills:** Paired programming, Technical communication, Agile & SCRUM
 
-💻 **Tech Stack**
+## 💻 Tech Stack:
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
@@ -57,7 +57,7 @@ I'm Francesco Vurchio, a Junior Software Developer passionate about building imp
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
-🌍 **Let's Connect:**
+## 🌍 Let's Connect:
 [Email](mailto:francesco.vurchio82@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/francesco-vurchio/)
 [GitHub](https://github.com/munaciella)
