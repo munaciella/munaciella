@@ -56,10 +56,10 @@ I'm Francesco Vurchio, a Junior Software Developer passionate about building imp
 ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
 
 🌍 **Let's Connect:**
-- ![francesco.vurchio82@gmail.com](mailto:francesco.vurchio82@gmail.com)
-- ![LinkedIn Profile](#)
-- ![GitHub Profile](#)
-- ![Portfolio Website](#)
+- [francesco.vurchio82@gmail.com](mailto:francesco.vurchio82@gmail.com)
+- [LinkedIn] (https://www.linkedin.com/in/francesco-vurchio/)
+- [GitHub] (https://github.com/munaciella)
+- [Portfolio] (https://francesco-vurchio.netlify.app/)
 
 📚 **Education:**
 - Northcoders Bootcamp | Full Stack Development
