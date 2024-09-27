@@ -47,18 +47,17 @@ I'm Francesco Vurchio, a Junior Software Developer passionate about building imp
 - **Hosting:** Cloudflare, Render, Vercel, Supabase, Firebase
 - **Soft Skills:** Paired programming, Technical communication, Agile & SCRUM
 
-**Tech Icons:**
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-- ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
 
 🌍 **Let's Connect:**
-- Email: [francesco.vurchio82@gmail.com](mailto:francesco.vurchio82@gmail.com)
-- LinkedIn: [LinkedIn Profile](#)
-- GitHub: [GitHub Profile](#)
-- Portfolio: [Portfolio Website](#)
+- [francesco.vurchio82@gmail.com](mailto:francesco.vurchio82@gmail.com)
+- [LinkedIn Profile](#)
+- [GitHub Profile](#)
+- [Portfolio Website](#)
 
 📚 **Education:**
 - Northcoders Bootcamp | Full Stack Development
